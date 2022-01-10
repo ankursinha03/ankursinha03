@@ -1,7 +1,8 @@
 ## Life is a journey keep walking 🚶🏻‍
 
-<img src = "https://github-readme-stats.vercel.app/api?username=ankursinha03&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankursinha03&&show_icons=true&count_private=true&theme=onedark&hide=stars,contribs&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankursinha03&langs_count=8&layout=compact&theme=onedark" />
 <!--
 **ankursinha03/ankursinha03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
